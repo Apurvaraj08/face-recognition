@@ -1,0 +1,21 @@
+{
+  "total_recognitions": 139,
+  "unique_students": 2,
+  "similarity_threshold": 0.6,
+  "recognition_stats": {
+    "Ansh": 55,
+    "Apurva": 84
+  },
+  "attendance_summary": {
+    "Ansh": {
+      "first_seen": "14:32:56",
+      "last_seen": "14:33:09",
+      "detection_count": 55
+    },
+    "Apurva": {
+      "first_seen": "14:33:02",
+      "last_seen": "14:33:16",
+      "detection_count": 84
+    }
+  }
+}

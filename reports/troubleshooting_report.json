@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-05-03T23:36:03.040043",
+  "diagnostic_results": {
+    "camera_availability": true,
+    "lighting_conditions": true,
+    "face_detection_quality": false,
+    "reference_data_quality": true
+  },
+  "common_issues": [],
+  "recommendations": [
+    "Position face directly towards camera",
+    "Ensure even lighting without shadows",
+    "Keep face at appropriate distance (not too close/far)",
+    "Avoid extreme angles or tilting head",
+    "Use reference images with similar lighting conditions"
+  ],
+  "next_steps": [
+    "Run improved_face_recognition.py with better lighting",
+    "Adjust recognition threshold using 't' key during runtime",
+    "Test with different face positions and angles",
+    "Ensure reference images match current appearance"
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "project_type": "Pure Face Detection System",
+  "timestamp": "2026-05-03T23:24:03.744921",
+  "students_processed": [
+    "Ansh",
+    "Apurva"
+  ],
+  "brijesh_status": "Completely Removed",
+  "detection_summary": {
+    "total_students": 2,
+    "total_images_processed": 9,
+    "total_faces_detected": 54,
+    "detection_accuracy": "OpenCV Haar Cascade"
+  },
+  "detailed_results": {
+    "Ansh": {
+      "images": [
+        {
+          "file": "IMG_2521.jpg",
+          "faces": 7,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Ansh_IMG_2521.jpg"
+        },
+        {
+          "file": "IMG_2522.jpg",
+          "faces": 6,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Ansh_IMG_2522.jpg"
+        },
+        {
+          "file": "IMG_2523.jpg",
+          "faces": 5,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Ansh_IMG_2523.jpg"
+        },
+        {
+          "file": "IMG_2524.jpg",
+          "faces": 4,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Ansh_IMG_2524.jpg"
+        }
+      ],
+      "total_faces": 22,
+      "face_coordinates": [
+        {
+          "image": "IMG_2521.jpg",
+          "x": 647,
+          "y": 1206,
+          "w": 2504,
+          "h": 2504
+        },
+        {
+          "image": "IMG_2521.jpg",
+          "x": 3462,
+          "y": 5049,
+          "w": 62,
+          "h": 62
+        },
+        {
+          "image": "IMG_2521.jpg",
+          "x": 633,
+          "y": 4480,
+          "w": 63,
+          "h": 63
+        },
+        {
+          "image": "IMG_2521.jpg",
+          "x": 3030,
+          "y": 4790,
+          "w": 77,
+          "h": 77
+        },
+        {
+          "image": "IMG_2521.jpg",
+          "x": 3005,
+          "y": 4424,
+          "w": 389,
+          "h": 389
+        },
+        {
+          "image": "IMG_2521.jpg",
+          "x": 3485,
+          "y": 5275,
+          "w": 76,
+          "h": 76
+        },
+        {
+          "image": "IMG_2521.jpg",
+          "x": 3453,
+          "y": 5018,
+          "w": 73,
+          "h": 73
+        },
+        {
+          "image": "IMG_2522.jpg",
+          "x": 954,
+          "y": 4386,
+          "w": 59,
+          "h": 59
+        },
+        {
+          "image": "IMG_2522.jpg",
+          "x": 1711,
+          "y": 4860,
+          "w": 34,
+          "h": 34
+        },
+        {
+          "image": "IMG_2522.jpg",
+          "x": 173,
+          "y": 1392,
+          "w": 2483,
+          "h": 2483
+        },
+        {
+          "image": "IMG_2522.jpg",
+          "x": 713,
+          "y": 1644,
+          "w": 73,
+          "h": 73
+        },
+        {
+          "image": "IMG_2522.jpg",
+          "x": 1708,
+          "y": 4838,
+          "w": 29,
+          "h": 29
+        },
+        {
+          "image": "IMG_2522.jpg",
+          "x": 1313,
+          "y": 4845,
+          "w": 360,
+          "h": 360
+        },
+        {
+          "image": "IMG_2523.jpg",
+          "x": 1128,
+          "y": 2230,
+          "w": 706,
+          "h": 706
+        },
+        {
+          "image": "IMG_2523.jpg",
+          "x": 3045,
+          "y": 2771,
+          "w": 167,
+          "h": 167
+        },
+        {
+          "image": "IMG_2523.jpg",
+          "x": 3498,
+          "y": 4520,
+          "w": 341,
+          "h": 341
+        },
+        {
+          "image": "IMG_2523.jpg",
+          "x": 1359,
+          "y": 4666,
+          "w": 346,
+          "h": 346
+        },
+        {
+          "image": "IMG_2523.jpg",
+          "x": 2126,
+          "y": 5495,
+          "w": 118,
+          "h": 118
+        },
+        {
+          "image": "IMG_2524.jpg",
+          "x": 970,
+          "y": 1003,
+          "w": 2192,
+          "h": 2192
+        },
+        {
+          "image": "IMG_2524.jpg",
+          "x": 3147,
+          "y": 4522,
+          "w": 346,
+          "h": 346
+        },
+        {
+          "image": "IMG_2524.jpg",
+          "x": 4038,
+          "y": 4546,
+          "w": 53,
+          "h": 53
+        },
+        {
+          "image": "IMG_2524.jpg",
+          "x": 2108,
+          "y": 5514,
+          "w": 116,
+          "h": 116
+        }
+      ]
+    },
+    "Apurva": {
+      "images": [
+        {
+          "file": "IMG_2540.jpg",
+          "faces": 5,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Apurva_IMG_2540.jpg"
+        },
+        {
+          "file": "IMG_2541.jpg",
+          "faces": 6,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Apurva_IMG_2541.jpg"
+        },
+        {
+          "file": "IMG_2542.jpg",
+          "faces": 9,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Apurva_IMG_2542.jpg"
+        },
+        {
+          "file": "IMG_2543.jpg",
+          "faces": 3,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Apurva_IMG_2543.jpg"
+        },
+        {
+          "file": "IMG_2544.jpg",
+          "faces": 9,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\face_detection_Apurva_IMG_2544.jpg"
+        }
+      ],
+      "total_faces": 32,
+      "face_coordinates": [
+        {
+          "image": "IMG_2540.jpg",
+          "x": 443,
+          "y": 806,
+          "w": 2685,
+          "h": 2685
+        },
+        {
+          "image": "IMG_2540.jpg",
+          "x": 1772,
+          "y": 5206,
+          "w": 62,
+          "h": 62
+        },
+        {
+          "image": "IMG_2540.jpg",
+          "x": 1972,
+          "y": 4708,
+          "w": 70,
+          "h": 70
+        },
+        {
+          "image": "IMG_2540.jpg",
+          "x": 4015,
+          "y": 5554,
+          "w": 55,
+          "h": 55
+        },
+        {
+          "image": "IMG_2540.jpg",
+          "x": 3953,
+          "y": 4929,
+          "w": 27,
+          "h": 27
+        },
+        {
+          "image": "IMG_2541.jpg",
+          "x": 1847,
+          "y": 5067,
+          "w": 75,
+          "h": 75
+        },
+        {
+          "image": "IMG_2541.jpg",
+          "x": 531,
+          "y": 1527,
+          "w": 48,
+          "h": 48
+        },
+        {
+          "image": "IMG_2541.jpg",
+          "x": 3153,
+          "y": 1684,
+          "w": 29,
+          "h": 29
+        },
+        {
+          "image": "IMG_2541.jpg",
+          "x": 2602,
+          "y": 4957,
+          "w": 31,
+          "h": 31
+        },
+        {
+          "image": "IMG_2541.jpg",
+          "x": 525,
+          "y": 2019,
+          "w": 1108,
+          "h": 1108
+        },
+        {
+          "image": "IMG_2541.jpg",
+          "x": 3097,
+          "y": 1413,
+          "w": 116,
+          "h": 116
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 1683,
+          "y": 1179,
+          "w": 2092,
+          "h": 2092
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 1864,
+          "y": 5313,
+          "w": 83,
+          "h": 83
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 659,
+          "y": 1667,
+          "w": 110,
+          "h": 110
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 3949,
+          "y": 5296,
+          "w": 26,
+          "h": 26
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 2410,
+          "y": 356,
+          "w": 72,
+          "h": 72
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 3887,
+          "y": 4343,
+          "w": 123,
+          "h": 123
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 3999,
+          "y": 4279,
+          "w": 57,
+          "h": 57
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 1852,
+          "y": 5281,
+          "w": 85,
+          "h": 85
+        },
+        {
+          "image": "IMG_2542.jpg",
+          "x": 4042,
+          "y": 5537,
+          "w": 57,
+          "h": 57
+        },
+        {
+          "image": "IMG_2543.jpg",
+          "x": 2531,
+          "y": 5229,
+          "w": 28,
+          "h": 28
+        },
+        {
+          "image": "IMG_2543.jpg",
+          "x": 448,
+          "y": 709,
+          "w": 2538,
+          "h": 2538
+        },
+        {
+          "image": "IMG_2543.jpg",
+          "x": 2423,
+          "y": 5149,
+          "w": 34,
+          "h": 34
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 3064,
+          "y": 2188,
+          "w": 31,
+          "h": 31
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 2992,
+          "y": 2977,
+          "w": 261,
+          "h": 261
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 2036,
+          "y": 5451,
+          "w": 86,
+          "h": 86
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 4059,
+          "y": 4498,
+          "w": 147,
+          "h": 147
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 4071,
+          "y": 4259,
+          "w": 81,
+          "h": 81
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 258,
+          "y": 1981,
+          "w": 2951,
+          "h": 2951
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 3138,
+          "y": 2600,
+          "w": 77,
+          "h": 77
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 2268,
+          "y": 2585,
+          "w": 52,
+          "h": 52
+        },
+        {
+          "image": "IMG_2544.jpg",
+          "x": 3063,
+          "y": 2614,
+          "w": 52,
+          "h": 52
+        }
+      ]
+    }
+  },
+  "report_data": [
+    {
+      "student": "Ansh",
+      "image_file": "IMG_2521.jpg",
+      "faces_detected": 7,
+      "result_image": "face_detection_Ansh_IMG_2521.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    },
+    {
+      "student": "Ansh",
+      "image_file": "IMG_2522.jpg",
+      "faces_detected": 6,
+      "result_image": "face_detection_Ansh_IMG_2522.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    },
+    {
+      "student": "Ansh",
+      "image_file": "IMG_2523.jpg",
+      "faces_detected": 5,
+      "result_image": "face_detection_Ansh_IMG_2523.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    },
+    {
+      "student": "Ansh",
+      "image_file": "IMG_2524.jpg",
+      "faces_detected": 4,
+      "result_image": "face_detection_Ansh_IMG_2524.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    },
+    {
+      "student": "Apurva",
+      "image_file": "IMG_2540.jpg",
+      "faces_detected": 5,
+      "result_image": "face_detection_Apurva_IMG_2540.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    },
+    {
+      "student": "Apurva",
+      "image_file": "IMG_2541.jpg",
+      "faces_detected": 6,
+      "result_image": "face_detection_Apurva_IMG_2541.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    },
+    {
+      "student": "Apurva",
+      "image_file": "IMG_2542.jpg",
+      "faces_detected": 9,
+      "result_image": "face_detection_Apurva_IMG_2542.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    },
+    {
+      "student": "Apurva",
+      "image_file": "IMG_2543.jpg",
+      "faces_detected": 3,
+      "result_image": "face_detection_Apurva_IMG_2543.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    },
+    {
+      "student": "Apurva",
+      "image_file": "IMG_2544.jpg",
+      "faces_detected": 9,
+      "result_image": "face_detection_Apurva_IMG_2544.jpg",
+      "timestamp": "2026-05-03 23:24:03"
+    }
+  ],
+  "generated_files": {
+    "csv_report": "reports/face_detection_report.csv",
+    "json_summary": "reports/face_detection_summary.json",
+    "detection_images": [
+      "face_detection_*.jpg"
+    ]
+  }
+}

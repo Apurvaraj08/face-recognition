@@ -1,0 +1,115 @@
+{
+  "timestamp": "2026-05-03T23:19:25.601060",
+  "project_analysis": {
+    "total_students_analyzed": 3,
+    "students_without_brijesh": [
+      {
+        "student": "Ansh",
+        "image_faces_detected": 22,
+        "realtime_detections": 2,
+        "unique_time_points": 2,
+        "attendance_rate": "2/5",
+        "status": "Present"
+      },
+      {
+        "student": "Apurva",
+        "image_faces_detected": 32,
+        "realtime_detections": 4,
+        "unique_time_points": 4,
+        "attendance_rate": "4/5",
+        "status": "Present"
+      }
+    ],
+    "total_images_processed": 9,
+    "total_faces_detected": 54
+  },
+  "attendance_summary": [
+    {
+      "student": "Brijesh",
+      "image_faces_detected": 0,
+      "realtime_detections": 3,
+      "unique_time_points": 3,
+      "attendance_rate": "3/5",
+      "status": "Present"
+    },
+    {
+      "student": "Ansh",
+      "image_faces_detected": 22,
+      "realtime_detections": 2,
+      "unique_time_points": 2,
+      "attendance_rate": "2/5",
+      "status": "Present"
+    },
+    {
+      "student": "Apurva",
+      "image_faces_detected": 32,
+      "realtime_detections": 4,
+      "unique_time_points": 4,
+      "attendance_rate": "4/5",
+      "status": "Present"
+    }
+  ],
+  "image_analysis_details": {
+    "Ansh": {
+      "images": [
+        {
+          "file": "IMG_2521.jpg",
+          "faces": 7,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Ansh_IMG_2521.jpg"
+        },
+        {
+          "file": "IMG_2522.jpg",
+          "faces": 6,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Ansh_IMG_2522.jpg"
+        },
+        {
+          "file": "IMG_2523.jpg",
+          "faces": 5,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Ansh_IMG_2523.jpg"
+        },
+        {
+          "file": "IMG_2524.jpg",
+          "faces": 4,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Ansh_IMG_2524.jpg"
+        }
+      ],
+      "total_faces": 22
+    },
+    "Apurva": {
+      "images": [
+        {
+          "file": "IMG_2540.jpg",
+          "faces": 5,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Apurva_IMG_2540.jpg"
+        },
+        {
+          "file": "IMG_2541.jpg",
+          "faces": 6,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Apurva_IMG_2541.jpg"
+        },
+        {
+          "file": "IMG_2542.jpg",
+          "faces": 9,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Apurva_IMG_2542.jpg"
+        },
+        {
+          "file": "IMG_2543.jpg",
+          "faces": 3,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Apurva_IMG_2543.jpg"
+        },
+        {
+          "file": "IMG_2544.jpg",
+          "faces": 9,
+          "result_path": "C:\\Users\\Apurava Raj\\OneDrive\\Grill\\Grill Assignment\\processed_Apurva_IMG_2544.jpg"
+        }
+      ],
+      "total_faces": 32
+    }
+  },
+  "notes": {
+    "brijesh_data_excluded": true,
+    "dlib_dependency_bypassed": true,
+    "opencv_used": true,
+    "simulation_mode": true
+  }
+}

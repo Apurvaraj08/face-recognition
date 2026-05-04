@@ -1,0 +1,85 @@
+{
+  "Ansh": {
+    "total_images": 4,
+    "total_faces": 22,
+    "avg_sharpness": 31.506137333208848,
+    "avg_brightness": 163.76408284923446,
+    "avg_contrast": 65.17094019999082,
+    "avg_face_size": 839498.6818181818,
+    "image_qualities": [
+      {
+        "file": "IMG_2521.jpg",
+        "sharpness": 28.14183699561349,
+        "brightness": 164.27491678861088,
+        "contrast": 66.6353255097859,
+        "faces": 7
+      },
+      {
+        "file": "IMG_2522.jpg",
+        "sharpness": 32.502808720404865,
+        "brightness": 163.04356587406204,
+        "contrast": 65.80157744757672,
+        "faces": 6
+      },
+      {
+        "file": "IMG_2523.jpg",
+        "sharpness": 27.1070092514431,
+        "brightness": 155.73368060459478,
+        "contrast": 68.98844684647311,
+        "faces": 5
+      },
+      {
+        "file": "IMG_2524.jpg",
+        "sharpness": 38.27289436537393,
+        "brightness": 172.00416812967018,
+        "contrast": 59.25841099612759,
+        "faces": 4
+      }
+    ]
+  },
+  "Apurva": {
+    "total_images": 5,
+    "total_faces": 32,
+    "avg_sharpness": 34.780830709077044,
+    "avg_brightness": 136.20980063594067,
+    "avg_contrast": 76.35489992812875,
+    "avg_face_size": 880328.40625,
+    "image_qualities": [
+      {
+        "file": "IMG_2540.jpg",
+        "sharpness": 32.27124313549197,
+        "brightness": 137.54498682642992,
+        "contrast": 75.76422192494188,
+        "faces": 5
+      },
+      {
+        "file": "IMG_2541.jpg",
+        "sharpness": 43.54953733324432,
+        "brightness": 128.68573086914503,
+        "contrast": 77.1926160263426,
+        "faces": 6
+      },
+      {
+        "file": "IMG_2542.jpg",
+        "sharpness": 32.927337383688446,
+        "brightness": 126.03644329463812,
+        "contrast": 78.480143638829,
+        "faces": 9
+      },
+      {
+        "file": "IMG_2543.jpg",
+        "sharpness": 23.367177998004376,
+        "brightness": 141.18981783890027,
+        "contrast": 76.5132575563184,
+        "faces": 3
+      },
+      {
+        "file": "IMG_2544.jpg",
+        "sharpness": 41.7888576949561,
+        "brightness": 147.5920243505899,
+        "contrast": 73.8242604942119,
+        "faces": 9
+      }
+    ]
+  }
+}
